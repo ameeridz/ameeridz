@@ -94,17 +94,23 @@ My personal space for showcasing projects, experiments and things I build along 
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,supabase,vercel,git,github,vscode&perline=7" alt="Tools and Technologies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,php,html,css,tailwind,nodejs,supabase,vercel,git,github,vscode&perline=8" alt="Tools and Technologies" />
+  <br />
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" height="48" alt="DBeaver" title="DBeaver" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
 </p>
+
 
 ---
 
