@@ -1,55 +1,148 @@
-<h1 align="center">Hi, I'm Juan 👋</h1>
+<h1 align="center">Hello, I'm Juan! 👋</h1>
 
 <p align="center">
-  System Engineer • Web Developer • Building useful things
+  <strong>System Engineer | Web Builder | Problem Solver</strong>
 </p>
 
-## About Me
+<p align="center">
+  I enjoy building simple, practical and mobile-first web applications that solve everyday problems.
+</p>
 
-- 💼 Working as a System Engineer
-- 🌐 Currently focusing on web development
-- 🧪 Building lightweight and practical web applications
-- 📱 Interested in PWA, mobile-first and local-first applications
-- 🚀 Currently building Pakatlah, SplitSukan and GymFlow
-- 📍 Malaysia
+<p align="center">
+  <a href="https://ridzu.one"><img src="https://img.shields.io/badge/Portfolio-ridzu.one-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ameeridz"><img src="https://img.shields.io/badge/LinkedIn-ameeridz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ameeridz"><img src="https://img.shields.io/badge/GitHub-ameeridz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## Current Projects
+---
+
+## 👨‍💻 About Me
+
+- 💼 Working as a **System Engineer**
+- 🌐 Currently focused on modern web development and Progressive Web Apps
+- 🧩 I like turning everyday problems into lightweight digital products
+- 📱 Interested in mobile-first, local-first and no-login experiences
+- 🚀 Currently building **Pakatlah**, **SplitSukan** and **GymFlow**
+- 🌱 Learning by shipping small, useful projects consistently
+- 🤝 Open to collaboration, feedback and interesting web projects
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤝 Pakatlah
 
-A simple group decision tool that turns “mana-mana” into a decision.
+A lightweight group consensus tool that turns **“mana-mana”** into a decision.
 
 - No login required
-- Shareable participant link
+- Shareable participant flow
 - Organizer dashboard
-- Simple group consensus flow
+- Built for quick group decisions
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏸 SplitSukan
 
-A lightweight mobile-first application for organizing shared sports expenses and payments.
+A mobile-first PWA for managing shared expenses and payments for casual sports activities.
+
+- Organizer-first workflow
+- Local-first experience
+- Shared expense tracking
+- Designed from real futsal and badminton use
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏋️ GymFlow
 
 A PWA for gym motivation, check-ins and active workout sessions.
 
-## Tech Stack
+- Responsive interface
+- Dark and light themes
+- Active-session timer
+- Mobile-friendly check-in flow
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjswhite
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badgept&logoColor=white
-![React](https://img.shields.io/badge/React-61DAFBr-the-badge&logo=react&logoColor=black
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSSr-the-badge&logo=tailwindcss&logoColor=white
-![Vercel](https://img.shields.io/badge/Vercel-000000?the-badge&logo=vercel&logoColor=white
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-=github&logoColor=white
+[View repository](https://github.com/ameeridz/gymflow)
 
-## GitHub Stats
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal space for showcasing projects, experiments and things I build along the way.
+
+- Personal projects
+- Development journey
+- Web experiments
+- Contact and social links
+
+[Visit ridzu.one](https://ridzu.one)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ameeridz&show_icons=true&theme=github_dark" alt="Juaner">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameeridz&layout=compact&theme=github_dark" alt="Juanct
-
-<p>
-  <a href="https://githubridz
-    <img src="https://img.shields.io/badge/GitHub-ameeridz-181717?style=for-the-badge&logo=github" />
-p align="center">
-  Learning, building and improving one project at a time.
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,nodejs,supabase,vercel,git,github,vscode&perline=7" alt="Tools and Technologies" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ameeridz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Juan's GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameeridz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Juan's most used languages" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ameeridz&theme=github-dark-blue&hide_border=true" alt="Juan's GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameeridz&theme=github_dark" alt="Juan's contribution summary" />
+</p>
+
+<p align="center">
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ameeridz&theme=github_dark" alt="Top languages by repository" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ameeridz&theme=github_dark" alt="Top languages by commit" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  If you have feedback, an idea or want to collaborate on something useful, feel free to reach out.
+</p>
+
+<p align="center">
+  <a href="https://ridzu.one"><img src="https://img.shields.io/badge/Website-ridzu.one-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/ameeridz"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ameeridz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center"><em>Learning, building and improving one project at a time.</em></p>
