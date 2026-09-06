@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ridzu.one"><img src="https://img.shields.io/badge/Portfolio-ridzu.one-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ridzu.one"><img src="https://img.shields.io/badge/Portfolio-ridzu.one-EC4899?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ameeridz"><img src="https://img.shields.io/badge/LinkedIn-ameeridz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/ameeridz"><img src="https://img.shields.io/badge/GitHub-ameeridz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -111,8 +111,8 @@ My personal space for showcasing projects, experiments and things I build along 
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ameeridz&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Juan's GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameeridz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Juan's most used languages" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ameeridz&theme=github_dark" alt="Juan's GitHub stats" />
+  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ameeridz&theme=github_dark" alt="Juan's most used languages" />
 </p>
 
 <p align="center">
@@ -137,7 +137,7 @@ My personal space for showcasing projects, experiments and things I build along 
 </p>
 
 <p align="center">
-  <a href="https://ridzu.one"><img src="https://img.shields.io/badge/Website-ridzu.one-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://ridzu.one"><img src="https://img.shields.io/badge/Website-ridzu.one-EC4899?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/ameeridz"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
